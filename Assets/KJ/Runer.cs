@@ -21,7 +21,7 @@ public class Runer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (run || Input.GetKey(KeyCode.K))
+        if (run)
         {
             Vector3 moveDirection = (goal.position - transform.position).normalized;
             body.MovePosition(transform.position + moveDirection * 0.5f);
