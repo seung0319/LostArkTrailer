@@ -1284,7 +1284,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ce7f4aa402e6eb4a8a2ab855023b06d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goal: {fileID: 324890715}
+  runergoal: {fileID: 0}
+  walkgoal: {fileID: 0}
   runers:
   - {fileID: 1908165135}
   - {fileID: 1337102980}
@@ -1299,6 +1300,7 @@ MonoBehaviour:
   - {fileID: 1897121239}
   - {fileID: 401149555}
   - {fileID: 802485067}
+  walker: []
 --- !u!4 &1005170469
 Transform:
   m_ObjectHideFlags: 0
@@ -8592,7 +8594,7 @@ GameObject:
   - component: {fileID: 7652398216985021703}
   - component: {fileID: 4382824283152603005}
   m_Layer: 0
-  m_Name: Death Knight - Fire Emblem Three Houses
+  m_Name: Boss
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
