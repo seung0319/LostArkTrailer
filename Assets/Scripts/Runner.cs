@@ -1,8 +1,4 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class Runner : MonoBehaviour
 {
@@ -12,10 +8,15 @@ public class Runner : MonoBehaviour
     public Rigidbody body;
     public Animator animator;
 
+    public Vector3 q;
+
     void Start()
     {
         body = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
+
+        q = new Vector3(Random.Range(-360, 361), Quaternion.identity.y, Random.Range(-360, 361));
+        transform.LookAt(q);
     }
 
     // Update is called once per frame
@@ -27,7 +28,7 @@ public class Runner : MonoBehaviour
             body.MovePosition(transform.position + moveDirection * 0.5f);
             transform.LookAt(goal);
 
-            if(Vector3.Distance(transform.position, goal.position) <= 0.1)
+            if (Vector3.Distance(transform.position, goal.position) <= 0.1)
                 gameObject.SetActive(false);
         }
         else
@@ -40,20 +41,20 @@ public class Runner : MonoBehaviour
     {
         this.goal = goal;
 
-        animator.SetBool("Run", true);
+        //animator.SetBool("Run", true);
 
-        /*
+
         int rand = Random.Range(0, 4);
 
-        if(rand == 0)
+        if (rand == 0)
             animator.SetBool("ZomebieRun", true);
-        else if(rand == 1)
+        else if (rand == 1)
             animator.SetBool("TurnRun", true);
-        else if(rand == 2)
+        else if (rand == 2)
             animator.SetBool("BehindRun", true);
         else
             animator.SetBool("JustRun", true);
-        */
+
 
         run = true;
     }
