@@ -11,6 +11,8 @@ public class MonsterRun : MonoBehaviour
     public Runner[] runners;
     public Walker[] walkers;
 
+    public float speed;
+
     public void Update()
     {
         if (Input.GetKeyDown(KeyCode.Tab))
@@ -28,7 +30,7 @@ public class MonsterRun : MonoBehaviour
     {
         foreach (Runner runner in runners)
         {
-            runner.RunerSetting(runergoal);
+            runner.RunerSetting(runergoal, speed);
         }
     }
 

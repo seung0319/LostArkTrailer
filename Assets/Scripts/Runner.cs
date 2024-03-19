@@ -1,16 +1,19 @@
+using UnityEditor.Rendering;
 using UnityEngine;
 
 public class Runner : MonoBehaviour
 {
     bool run;
 
-    public Transform goal;
-    public Rigidbody body;
-    public Animator animator;
+    private Transform goal;
+    private Rigidbody body;
+    private Animator animator;
 
-    public Vector3 q;
+    private Vector3 q;
 
     public bool r;
+
+    private float speed;
 
     void Start()
     {
@@ -32,7 +35,7 @@ public class Runner : MonoBehaviour
         if (run)
         {
             Vector3 moveDirection = (goal.position - transform.position).normalized;
-            body.MovePosition(transform.position + moveDirection * 0.2f);
+            body.MovePosition(transform.position + moveDirection * speed);
             transform.LookAt(goal);
 
             if (Vector3.Distance(transform.position, goal.position) <= 3)
@@ -44,24 +47,10 @@ public class Runner : MonoBehaviour
         }
     }
 
-    public void RunerSetting(Transform goal)
+    public void RunerSetting(Transform goal, float speed)
     {
         this.goal = goal;
-
-        
-
-
-        //int rand = Random.Range(0, 4);
-
-        //if (rand == 0)
-        //    animator.SetBool("ZomebieRun", true);
-        //else if (rand == 1)
-        //    animator.SetBool("TurnRun", true);
-        //else if (rand == 2)
-        //    animator.SetBool("BehindRun", true);
-        //else
-        //    animator.SetBool("JustRun", true);
-
+        this.speed = speed;
 
         run = true;
         if (r)

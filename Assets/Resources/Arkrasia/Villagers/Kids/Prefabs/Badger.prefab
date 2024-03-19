@@ -935,7 +935,7 @@ GameObject:
   - component: {fileID: 95642434784350160}
   - component: {fileID: -2124548962691554445}
   - component: {fileID: -4896129554487535327}
-  - component: {fileID: 2078273424940644192}
+  - component: {fileID: -1947456724437847972}
   m_Layer: 6
   m_Name: Badger
   m_TagString: Untagged
@@ -1006,7 +1006,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 16
   m_CollisionDetection: 0
 --- !u!65 &-4896129554487535327
 BoxCollider:
@@ -1029,19 +1029,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0349793, y: 3.6498132, z: 1}
   m_Center: {x: 0.030458689, y: 1.8114526, z: 0}
---- !u!114 &2078273424940644192
+--- !u!114 &-1947456724437847972
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1424105536132696}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45c38b7ca1b562144afee81970b06b80, type: 3}
+  m_Script: {fileID: 11500000, guid: a575b9c50a86ea74dacc332d1014c63b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goal: {fileID: 0}
   body: {fileID: 0}
   animator: {fileID: 0}
 --- !u!1 &1426274548557074
