@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 95997472022483686}
   - component: {fileID: 7906111744001846400}
   - component: {fileID: -4764606321070476788}
-  - component: {fileID: 7983083548396615541}
+  - component: {fileID: -3297469939599315291}
   m_Layer: 6
   m_Name: Koala
   m_TagString: Untagged
@@ -210,7 +210,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 16
   m_CollisionDetection: 0
 --- !u!65 &-4764606321070476788
 BoxCollider:
@@ -233,19 +233,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0349793, y: 3.6498132, z: 1}
   m_Center: {x: 0.030458689, y: 1.8114526, z: 0}
---- !u!114 &7983083548396615541
+--- !u!114 &-3297469939599315291
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1071349104714722}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45c38b7ca1b562144afee81970b06b80, type: 3}
+  m_Script: {fileID: 11500000, guid: a575b9c50a86ea74dacc332d1014c63b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goal: {fileID: 0}
   body: {fileID: 0}
   animator: {fileID: 0}
 --- !u!1 &1073908781451174

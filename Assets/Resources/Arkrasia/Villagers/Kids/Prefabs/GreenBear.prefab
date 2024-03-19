@@ -2375,7 +2375,7 @@ GameObject:
   - component: {fileID: 95572770087054678}
   - component: {fileID: -3276104509905137234}
   - component: {fileID: -6087229974826283464}
-  - component: {fileID: -5033931063476806632}
+  - component: {fileID: -9033906991411122906}
   m_Layer: 6
   m_Name: GreenBear
   m_TagString: Untagged
@@ -2446,7 +2446,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 16
   m_CollisionDetection: 0
 --- !u!65 &-6087229974826283464
 BoxCollider:
@@ -2469,19 +2469,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2.0349793, y: 3.6498132, z: 1}
   m_Center: {x: 0.030458689, y: 1.8114526, z: 0}
---- !u!114 &-5033931063476806632
+--- !u!114 &-9033906991411122906
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1952192267291074}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45c38b7ca1b562144afee81970b06b80, type: 3}
+  m_Script: {fileID: 11500000, guid: a575b9c50a86ea74dacc332d1014c63b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  goal: {fileID: 0}
   body: {fileID: 0}
   animator: {fileID: 0}
 --- !u!1 &1954182257236388

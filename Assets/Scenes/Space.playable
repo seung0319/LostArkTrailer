@@ -1,5 +1,21 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8991064258233638259
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 12613a3424f68194cb1fe3871f66d3a9
+    defaultValue: {fileID: 0}
 --- !u!114 &-8966942667274423040
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -22,10 +38,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 0
+    m_Start: 9
     m_ClipIn: 0
-    m_Asset: {fileID: 5515143108292834070}
-    m_Duration: 9.6
+    m_Asset: {fileID: -8991064258233638259}
+    m_Duration: 3.816666666666668
     m_TimeScale: 1
     m_ParentTrack: {fileID: -8966942667274423040}
     m_EaseInDuration: 0
@@ -89,9 +105,94 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Virtual Camera
+    m_DisplayName: Cut2
+  - m_Version: 1
+    m_Start: 0
+    m_ClipIn: 0
+    m_Asset: {fileID: -8325063739989445545}
+    m_Duration: 9
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -8966942667274423040}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Cut1
   m_Markers:
     m_Objects: []
+--- !u!114 &-8325063739989445545
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: deedb5a2ebc0d6d4089f58c8791488ef
+    defaultValue: {fileID: 0}
 --- !u!114 &-7426512966027733394
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -117,7 +218,7 @@ MonoBehaviour:
     m_Start: 6.65
     m_ClipIn: 0
     m_Asset: {fileID: 400439898774989692}
-    m_Duration: 3.049999999999999
+    m_Duration: 6.166666666666668
     m_TimeScale: 1
     m_ParentTrack: {fileID: -7426512966027733394}
     m_EaseInDuration: 0
@@ -387,7 +488,7 @@ MonoBehaviour:
     m_Start: 6.65
     m_ClipIn: 0
     m_Asset: {fileID: 5175858905606239345}
-    m_Duration: 3.049999999999999
+    m_Duration: 6.166666666666668
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5154434361344724054}
     m_EaseInDuration: 0
@@ -467,22 +568,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset(Clone)
   m_EditorClassIdentifier: 
---- !u!114 &5515143108292834070
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
-  m_Name: CinemachineShot
-  m_EditorClassIdentifier: 
-  DisplayName: 
-  VirtualCamera:
-    exposedName: c36ed868055e0784e83b6994ca5e62c5
-    defaultValue: {fileID: 0}
 --- !u!114 &6459291259312466114
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -508,7 +593,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -1246941716538050923}
-    m_Duration: 9.6
+    m_Duration: 12.816666666666668
     m_TimeScale: 1
     m_ParentTrack: {fileID: 6459291259312466114}
     m_EaseInDuration: 0
