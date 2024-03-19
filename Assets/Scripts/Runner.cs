@@ -40,19 +40,17 @@ public class Runner : MonoBehaviour
     {
         this.goal = goal;
 
-        animator.SetBool("Run", true);
-
         /*
         int rand = Random.Range(0, 4);
 
         if(rand == 0)
-            animator.SetBool("ZomebieRun", true);
+            animator.SetBool("Run1", true);
         else if(rand == 1)
-            animator.SetBool("TurnRun", true);
+            animator.SetBool("Run2", true);
         else if(rand == 2)
-            animator.SetBool("BehindRun", true);
+            animator.SetBool("Run3", true);
         else
-            animator.SetBool("JustRun", true);
+            animator.SetBool("Run4", true);
         */
 
         run = true;

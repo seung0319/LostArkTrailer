@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1525775177454805835}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hand.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7525431988969164296}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.003.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -78,7 +78,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7360364645596407125}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ankle_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -109,7 +109,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4358449300570037360}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -142,7 +142,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7792148395623942738}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.007.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -174,7 +174,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4668237331179863168}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.001.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -205,7 +205,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4927214029013451710}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Head.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -237,7 +237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3755957021282244293}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.006.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -269,7 +269,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8556097996510223075}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -302,7 +302,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7652848810610915356}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.005.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -335,7 +335,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7680302757824711202}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.003.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -368,7 +368,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8216306224780794748}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Pad.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -399,7 +399,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8501838441467364577}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -430,7 +430,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 304079482943675383}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -462,7 +462,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6519689183156985984}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.005.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6209409859201470313}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -527,7 +527,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3652959549126438253}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.005.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -559,7 +559,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8895149929965301423}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.002.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -590,7 +590,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4783865633461439098}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -622,7 +622,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8766723231572512765}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -655,7 +655,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3072306562209409010}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.004.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -688,7 +688,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3429923786919632037}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -721,7 +721,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7789281159531775783}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -752,7 +752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 970817762995848676}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -784,7 +784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2795059169149325960}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.007.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -816,7 +816,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7236329970329455567}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.004.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -849,7 +849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6309837814071920005}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.004.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -882,7 +882,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5193288924439501988}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -915,7 +915,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 307686714267426937}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -948,7 +948,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3062245542466170741}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -981,7 +981,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5265580741921482301}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1012,7 +1012,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7825206329650508259}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.002.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1043,7 +1043,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3172934279107301743}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Pad.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1075,7 +1075,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5725290218434991985}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1110,7 +1110,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6716135149020694739}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1144,7 +1144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4220184656836374448}
   - component: {fileID: 8690112523978570104}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Head.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1377,7 +1377,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7863567367904494865}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Toe.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1408,7 +1408,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5210865236203846430}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1441,7 +1441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 355929237802794812}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1475,7 +1475,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3054791826688586308}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1508,7 +1508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3138916362635573340}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.005.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1541,7 +1541,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2903298710946488202}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Side_Metal.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1572,7 +1572,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2919040826827415520}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.007.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1603,7 +1603,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8077544400602011950}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1635,7 +1635,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8398253092982485951}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.007.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1667,7 +1667,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5885740500302238626}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.007.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1698,7 +1698,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 679692603565845775}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1731,7 +1731,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1943629753876447558}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.003.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1764,7 +1764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8619803625254955128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1797,7 +1797,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4925542439548887275}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1829,7 +1829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2132038966252811036}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Arm.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1862,7 +1862,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6098187808336572107}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thigh_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1893,7 +1893,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8038901439455050045}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1926,7 +1926,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6324371880370439260}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ankle_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1959,7 +1959,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8505022938188025441}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1992,7 +1992,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5823871829700242176}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2024,7 +2024,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3080473413045472026}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2058,7 +2058,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8637537788663439346}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2091,7 +2091,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2108221985834531648}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.002.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2122,7 +2122,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7893672929106893782}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.002.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2153,7 +2153,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8814155276193058935}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2185,7 +2185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4986896046823362607}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2218,7 +2218,7 @@ GameObject:
   m_Component:
   - component: {fileID: 610385159861119405}
   - component: {fileID: 2893955188430575482}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Clothing.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2450,7 +2450,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1835509813023480240}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.002.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2481,7 +2481,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 545736826282256480}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Side_Metal.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2514,7 +2514,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1765741605924502088}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spine.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2547,7 +2547,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7487884949196634570}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Root.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2583,7 +2583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1000990351013915039}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.007.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2614,7 +2614,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 371523254691516702}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2647,7 +2647,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4504717636363356999}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2680,7 +2680,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9166694543385557727}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.002.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2711,7 +2711,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4405363865830787544}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2744,7 +2744,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2903282770469109984}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2779,7 +2779,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8223618755286240819}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Foot.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2811,7 +2811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4084251290383790485}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2843,7 +2843,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 172717927540965534}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Pad.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2876,7 +2876,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4250642344515654350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2909,7 +2909,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7773817196292239197}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2944,7 +2944,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1807173516767571611}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.006.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2976,7 +2976,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7468639262208333161}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wrist_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3009,7 +3009,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4962560294723654874}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3042,7 +3042,7 @@ GameObject:
   m_Component:
   - component: {fileID: 153842954584760699}
   - component: {fileID: 8393570902450124054}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Boss
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3101,7 +3101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 250912926508996828}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3134,7 +3134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5456253500244013347}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Torso.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3180,7 +3180,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5401610200404723541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Side_Metal.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3211,7 +3211,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5355825616665773850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3244,7 +3244,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3041394366409958853}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3277,7 +3277,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3572776070205443352}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wrist_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3308,7 +3308,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7213791575630011989}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thigh_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3341,7 +3341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7447273381879557774}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.006.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3373,7 +3373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5987850626288408124}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.007.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3404,7 +3404,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 487736890191045207}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.003.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3437,7 +3437,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5434910035733399138}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ankle_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3470,7 +3470,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2182298481358204818}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.007.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3502,7 +3502,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 720713399711736080}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3535,7 +3535,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4887146789823039704}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3568,7 +3568,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7932133358445574396}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3601,7 +3601,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 216960524502187863}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Side_Metal.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3634,7 +3634,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2271096955174025566}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.007.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3665,7 +3665,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5821599680020819362}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.006.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3697,7 +3697,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3152195229798094845}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3730,7 +3730,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4490122273504633344}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3763,7 +3763,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5671206130153512077}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3796,7 +3796,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2265683410045596300}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3827,7 +3827,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 868511527589702386}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3859,7 +3859,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6880385198842946059}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.004.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3892,7 +3892,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6999025832974033289}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.004.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3925,7 +3925,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4282666926073740797}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Fingers.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3958,7 +3958,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 522913485920893471}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3990,7 +3990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3110421624154586734}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.004.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4023,7 +4023,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5728759857465967158}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.003.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4056,7 +4056,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3140686127421444649}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.006.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4088,7 +4088,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5330159893913352444}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Toe.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4119,7 +4119,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8091683329789898889}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4151,7 +4151,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8015233928801889714}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4184,7 +4184,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1677500863856234285}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.006.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4216,7 +4216,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4601133149372265371}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4249,7 +4249,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6402065543979539854}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee_Adjust.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4282,7 +4282,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3360979091374362371}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4315,7 +4315,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1751757820034580026}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Arm.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4348,7 +4348,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4042067365478155754}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.003.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4381,7 +4381,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3317643200636508613}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.007.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4415,7 +4415,7 @@ GameObject:
   - component: {fileID: 6081371032952167670}
   - component: {fileID: 1821598058069963140}
   - component: {fileID: 2928234077228287470}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Cape.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4496,7 +4496,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2193615683861213066}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death-Knight | Fire Emblem Three Houses
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4528,7 +4528,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1939876025154035662}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg_Cloth_A.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4559,7 +4559,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5303563939580380353}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4592,7 +4592,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 453209932826937644}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.007.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4623,7 +4623,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8698864919877133239}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.003.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4656,7 +4656,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6239627960106106732}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4689,7 +4689,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7844525523751776510}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4721,7 +4721,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5939200973783439583}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.005.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4754,7 +4754,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4175154545668593333}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.007.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4786,7 +4786,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2060259489070679849}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg_Cloth_A.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4819,7 +4819,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7073832931342880377}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Pad.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4850,7 +4850,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1712513816664112443}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4882,7 +4882,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3014511645874165950}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Elbow_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4914,7 +4914,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6045362942029695343}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4947,7 +4947,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3191654719699754302}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4980,7 +4980,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3361756907542596467}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5013,7 +5013,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5376174873926394205}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5046,7 +5046,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4631048478415972040}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Toe.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5079,7 +5079,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1995261325975514445}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.001.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5112,7 +5112,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8903463481858991183}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5148,7 +5148,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7448552382477384771}
   - component: {fileID: 2410593626019718347}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Eyes.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5381,7 +5381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6046395588856704742}
   - component: {fileID: 1547961388517873603}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Head.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5613,7 +5613,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5841775993533193475}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hair_Front.001.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5644,7 +5644,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1155539485738721929}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.007.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5675,7 +5675,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6619376093616995735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5708,7 +5708,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8419090054039522575}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.002.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5739,7 +5739,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7671755467223647103}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.002.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5770,7 +5770,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9141246661787401738}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg_Cloth_A.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5803,7 +5803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4564074960728023374}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thigh_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5836,7 +5836,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5205497503832143916}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Head.000_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5867,7 +5867,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5497479062714684856}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Toe.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5900,7 +5900,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4882827222603353582}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.007_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5931,7 +5931,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3364146230407370398}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.002.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5963,7 +5963,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9217987040743362582}
   - component: {fileID: 6177768046920405737}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Clothing.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6195,7 +6195,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7875512147987958352}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.007.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6227,7 +6227,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3076856877637675493}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.007.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6258,7 +6258,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8498585554784724421}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Hand.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6294,7 +6294,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4489562424926782816}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6327,7 +6327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5364905598447182826}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6360,7 +6360,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3390051008829085250}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6391,7 +6391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1999213494407236831}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.005.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6424,7 +6424,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5653314886581114882}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6457,7 +6457,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 803622529376055117}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6490,7 +6490,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5492288564513612321}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.004.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6523,7 +6523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7708902158163983831}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thigh_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6554,7 +6554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1692511498136916070}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wrist_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6585,7 +6585,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2560708111870156942}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6618,7 +6618,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7995242493392355}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Foot.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6650,7 +6650,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6555962040510577066}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Fingers.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6683,7 +6683,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3730059585752397337}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6716,7 +6716,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4165677421580483192}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Middle_Finger.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6749,7 +6749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6905522772108356520}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.004.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6782,7 +6782,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4275571168337130023}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Index_Finger.001.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6815,7 +6815,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4925161620887106211}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6848,7 +6848,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8495251801286491254}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_Center.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6881,7 +6881,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2871662903389422957}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6914,7 +6914,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 814164993914359815}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6948,7 +6948,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4140018207267547788}
   - component: {fileID: 6274844605275193130}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Death_Knight_Clothing.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7180,7 +7180,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6954573565553173687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.006.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7212,7 +7212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4788718194354843560}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Root.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7244,7 +7244,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6631787431138395120}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7276,7 +7276,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6262256105949638785}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Knee_Adjust.000.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7307,7 +7307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5996791661747321315}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Wrist_Adjust.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7340,7 +7340,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4075075565009158957}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_A.003.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7373,7 +7373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7208572378771465065}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_C.007.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7405,7 +7405,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4909380813900238516}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Leg_Cloth_A.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7436,7 +7436,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4589446642157695809}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pinky_Finger.002.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7469,7 +7469,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3976053470346667213}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ankle_Adjust.000.L_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7500,7 +7500,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7407102605125771480}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.006.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7532,7 +7532,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3989291091619357114}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Thumb.002.R_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7563,7 +7563,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1513949433910590491}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Neck.000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7595,7 +7595,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2587833552660091221}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shoulder.000.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7628,7 +7628,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 316096695862515424}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ring_Finger.000.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7660,7 +7660,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1741865708533706223}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.002.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7693,7 +7693,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1828089018858780572}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_D.005.L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7725,7 +7725,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 357019488710995022}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cape_B.005.R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
