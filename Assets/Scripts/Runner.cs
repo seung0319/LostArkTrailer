@@ -10,11 +10,18 @@ public class Runner : MonoBehaviour
 
     public Vector3 q;
 
+    public bool r;
+
     void Start()
     {
         body = GetComponent<Rigidbody>();
         animator = GetComponent<Animator>();
 
+
+        if (r)
+        {
+            return;
+        }
         q = new Vector3(Random.Range(-360, 361), Quaternion.identity.y, Random.Range(-360, 361));
         transform.LookAt(q);
     }
@@ -25,10 +32,10 @@ public class Runner : MonoBehaviour
         if (run)
         {
             Vector3 moveDirection = (goal.position - transform.position).normalized;
-            body.MovePosition(transform.position + moveDirection * 0.5f);
+            body.MovePosition(transform.position + moveDirection * 0.2f);
             transform.LookAt(goal);
 
-            if (Vector3.Distance(transform.position, goal.position) <= 0.1)
+            if (Vector3.Distance(transform.position, goal.position) <= 3)
                 gameObject.SetActive(false);
         }
         else
@@ -41,21 +48,26 @@ public class Runner : MonoBehaviour
     {
         this.goal = goal;
 
-        //animator.SetBool("Run", true);
+        
 
 
-        int rand = Random.Range(0, 4);
+        //int rand = Random.Range(0, 4);
 
-        if (rand == 0)
-            animator.SetBool("ZomebieRun", true);
-        else if (rand == 1)
-            animator.SetBool("TurnRun", true);
-        else if (rand == 2)
-            animator.SetBool("BehindRun", true);
-        else
-            animator.SetBool("JustRun", true);
+        //if (rand == 0)
+        //    animator.SetBool("ZomebieRun", true);
+        //else if (rand == 1)
+        //    animator.SetBool("TurnRun", true);
+        //else if (rand == 2)
+        //    animator.SetBool("BehindRun", true);
+        //else
+        //    animator.SetBool("JustRun", true);
 
 
         run = true;
+        if (r)
+        {
+            return;
+        }
+        animator.SetBool("run", true);
     }
 }
