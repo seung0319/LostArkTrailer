@@ -13,22 +13,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sm_1
-    second: {fileID: 2100000, guid: 2c79cde826deeae41b1fa693feba10c9, type: 2}
+    second: {fileID: 2100000, guid: 93262b0c510172a4e8217c67f4e2ba83, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sm_2
-    second: {fileID: 2100000, guid: 2c79cde826deeae41b1fa693feba10c9, type: 2}
+    second: {fileID: 2100000, guid: 93262b0c510172a4e8217c67f4e2ba83, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sm_3
-    second: {fileID: 2100000, guid: 2c79cde826deeae41b1fa693feba10c9, type: 2}
+    second: {fileID: 2100000, guid: 93262b0c510172a4e8217c67f4e2ba83, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sm_4
-    second: {fileID: 2100000, guid: 2c79cde826deeae41b1fa693feba10c9, type: 2}
+    second: {fileID: 2100000, guid: 1234c5ea2ccd9874aad1d1437cd115fb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -41,8 +41,7 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: "Avatar creation failed:\n\tTransform 'b_001A' is not an ancestor
-      of 'b_0034'\n"
+    rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
